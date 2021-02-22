@@ -46,7 +46,7 @@ class DropNav extends React.Component {
           {/*  <!-- <a href="#home" className="logo-name">Lloyd Sibson BA (HONS)</a> -->  */}
           <div className="logo-name-mobile">
             <div className="personal-status live">Open to Job Offers</div>
-            <div className="personal-status offline">Not Open To Work/New Clients</div>
+            <div className="personal-status offline">Not Open To Work</div>
           </div>
         </div>
         <div className="nav-links">

@@ -918,6 +918,7 @@ a.logo-name,
 .hide-nav li .cv-download:hover {
   color: black;
   background-color: white;
+  cursor: pointer;
 }
 .cv-download svg {
   margin-right: 8px;

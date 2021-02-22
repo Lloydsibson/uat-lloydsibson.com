@@ -42,8 +42,8 @@ class CvLightBox extends React.Component {
                                     <a href="https://codepen.io/lloydsibson/"><img loading="lazy" src="https://res.cloudinary.com/cloudinary-ls-images/image/upload/v1597340310/img/codepen-logo.png" alt="cv codepen logo" title="CodePen" /></a>
                                 </div>
                             </div>
-                            {/* <a href={CvOnePage} download>One-Page.pdf</a> */}
-                            <a href={CvTwoPage} download>Two-Page.pdf</a>
+                            {/* <a href={CvTwoPage} download>Two-Page.pdf</a> */}
+                            <a>Not Available</a>
                         </div>
                     </div>
                 </div>
